@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "629cbef66040525a301c4355"
+  },
+  "Name": "Ken",
+  "LastName": "Koch",
+  "Telephone": "03-930-2334"
+},{
+  "_id": {
+    "$oid": "629cbf056040525a301c435b"
+  },
+  "Name": "Michael",
+  "LastName": "Tonad",
+  "Telephone": "04-459-9876"
+},{
+  "_id": {
+    "$oid": "629cbf176040525a301c4361"
+  },
+  "Name": "Gary",
+  "LastName": "Frant",
+  "Telephone": "03-930-1243"
+}]

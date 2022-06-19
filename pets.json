@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "629cbe416040525a301c432f"
+  },
+  "name": "jack",
+  "feed": "shrimps",
+  "age": 5
+},{
+  "_id": {
+    "$oid": "629cbe576040525a301c4335"
+  },
+  "name": "popy",
+  "feed": "chicken",
+  "age": 10
+},{
+  "_id": {
+    "$oid": "629cbe766040525a301c433b"
+  },
+  "name": "charly",
+  "feed": "beef",
+  "age": 6
+}]

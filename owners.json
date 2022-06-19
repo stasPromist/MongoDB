@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "62af6d205ea3c6dcc02e69c5"
+  },
+  "FirstName": "Stas",
+  "LastName": "Barsky",
+  "Email": "ctacbars@gmail.com",
+  "Age": 37,
+  "veterinarians": [
+    {
+      "$oid": "629cbef66040525a301c4355"
+    }
+  ],
+  "pets": [
+    {
+      "$oid": "629cbe416040525a301c432f"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62af6d89fc8992bd7b0ffe8b"
+  },
+  "FirstName": "Stanislav",
+  "LastName": "Barskiy",
+  "Email": "ctacbars@gmail.com",
+  "Age": 38,
+  "veterinarians": [
+    {
+      "$oid": "629cbf056040525a301c435b"
+    }
+  ],
+  "pets": [
+    {
+      "$oid": "629cbe576040525a301c4335"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62af6de33d3ba38ac2d9cb0c"
+  },
+  "FirstName": "Inga",
+  "LastName": "Barskaya",
+  "Email": "ing@gmail.com",
+  "Age": 38,
+  "veterinarians": [
+    {
+      "$oid": "629cbf176040525a301c4361"
+    }
+  ],
+  "pets": [
+    {
+      "$oid": "629cbe766040525a301c433b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62af7585d539ff803d78153e"
+  },
+  "FirstName": "David",
+  "LastName": "Fran",
+  "Email": "david@gmail.com",
+  "Age": 50,
+  "veterinarians": [
+    {
+      "$oid": "629cbf176040525a301c4361"
+    }
+  ],
+  "pets": [
+    {
+      "$oid": "629cbe766040525a301c433b"
+    },
+    {
+      "$oid": "629cbe576040525a301c4335"
+    },
+    {
+      "$oid": "629cbe416040525a301c432f"
+    }
+  ],
+  "__v": 0
+}]
